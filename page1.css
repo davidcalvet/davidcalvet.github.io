@@ -1,0 +1,17 @@
+a{
+    color: red;
+    
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:purple;
+}
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
